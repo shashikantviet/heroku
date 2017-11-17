@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "@sendgrid/mail": "^6.1.4",
+    "express": "^4.16.2",
+    "git": "^0.1.5",
+    "json-cmd": "^0.1.1",
+    "sendgrid": "^5.2.3"
+  },
+  "license": "ISC",
+  "repository": {
+    "type": "",
+    "url": ""
+  },
+  "description": "A simple web application...."
+}
